@@ -4,216 +4,216 @@
     "CN": "Saber",
     "TW": null,
     "NA": "saber",
-    "KR": null
+    "KR": "세이버"
   },
   "2": {
     "JP": "Archer",
     "CN": null,
     "TW": null,
     "NA": "archer",
-    "KR": null
+    "KR": "아쳐"
   },
   "3": {
     "JP": "Lancer",
     "CN": null,
     "TW": null,
     "NA": "lancer",
-    "KR": null
+    "KR": "랜서"
   },
   "4": {
     "JP": "Rider",
     "CN": null,
     "TW": null,
     "NA": "rider",
-    "KR": null
+    "KR": "라이더"
   },
   "5": {
     "JP": "Caster",
     "CN": null,
     "TW": null,
     "NA": "caster",
-    "KR": null
+    "KR": "캐스터"
   },
   "6": {
     "JP": "Assassin",
     "CN": null,
     "TW": null,
     "NA": "assassin",
-    "KR": null
+    "KR": "어쌔신"
   },
   "7": {
     "JP": "Berserker",
     "CN": null,
     "TW": null,
     "NA": "berserker",
-    "KR": null
+    "KR": "버서커"
   },
   "8": {
     "JP": "Shielder",
     "CN": null,
     "TW": null,
     "NA": "shielder",
-    "KR": null
+    "KR": "쉴더"
   },
   "9": {
     "JP": "Ruler",
     "CN": null,
     "TW": null,
     "NA": "ruler",
-    "KR": null
+    "KR": "룰러"
   },
   "10": {
     "JP": "AlterEgo",
     "CN": null,
     "TW": null,
     "NA": "alterEgo",
-    "KR": null
+    "KR": "얼터에고"
   },
   "11": {
     "JP": "Avenger",
     "CN": null,
     "TW": null,
     "NA": "avenger",
-    "KR": null
+    "KR": "어벤져"
   },
   "12": {
     "JP": "Demon God Pillar",
     "CN": null,
     "TW": null,
     "NA": "demonGodPillar",
-    "KR": null
+    "KR": "마신주"
   },
   "17": {
     "JP": "Grand Caster",
     "CN": null,
     "TW": null,
     "NA": "grandCaster",
-    "KR": null
+    "KR": "그랜드 캐스터"
   },
   "20": {
     "JP": "BeastII",
     "CN": null,
     "TW": null,
     "NA": "beastII",
-    "KR": null
+    "KR": "버스트II"
   },
   "21": {
     "JP": "UshiChaosTide",
     "CN": null,
     "TW": null,
     "NA": "ushiChaosTide",
-    "KR": null
+    "KR": "ushiChaosTide"
   },
   "22": {
     "JP": "BeastI",
     "CN": null,
     "TW": null,
     "NA": "beastI",
-    "KR": null
+    "KR": "비스트I"
   },
   "23": {
     "JP": "MoonCancer",
     "CN": null,
     "TW": null,
     "NA": "moonCancer",
-    "KR": null
+    "KR": "문캔서"
   },
   "24": {
     "JP": "BeastIIIR",
     "CN": null,
     "TW": null,
     "NA": "beastIIIR",
-    "KR": null
+    "KR": "비스트IIIR"
   },
   "25": {
     "JP": "Foreigner",
     "CN": null,
     "TW": null,
     "NA": "foreigner",
-    "KR": null
+    "KR": "포리너"
   },
   "26": {
     "JP": "BeastIIIL",
     "CN": null,
     "TW": null,
     "NA": "beastIIIL",
-    "KR": null
+    "KR": "비스트IIIL"
   },
   "27": {
     "JP": "BeastUnknown",
     "CN": null,
     "TW": null,
     "NA": "beastUnknown",
-    "KR": null
+    "KR": "비스트Unknown"
   },
   "28": {
     "JP": "Pretender",
     "CN": null,
     "TW": null,
     "NA": "pretender",
-    "KR": null
+    "KR": "프리텐더"
   },
   "29": {
     "JP": "BeastIV",
     "CN": null,
     "TW": null,
     "NA": "beastIV",
-    "KR": null
+    "KR": "비스트IV"
   },
   "97": {
     "JP": "Unknown",
     "CN": null,
     "TW": null,
     "NA": "unknown",
-    "KR": null
+    "KR": "unknown"
   },
   "107": {
     "JP": "AgarthaPenth",
     "CN": null,
     "TW": null,
     "NA": "agarthaPenth",
-    "KR": null
+    "KR": "AgarthaPenth"
   },
   "124": {
     "JP": "cccFinaleEmiyaAlter",
     "CN": null,
     "TW": null,
     "NA": "cccFinaleEmiyaAlter",
-    "KR": null
+    "KR": "cccFinaleEmiyaAlter"
   },
   "125": {
     "JP": "SalemAbby",
     "CN": null,
     "TW": null,
     "NA": "salemAbby",
-    "KR": null
+    "KR": "salemAbby"
   },
   "1000": {
     "JP": "OTHER",
     "CN": null,
     "TW": null,
     "NA": "OTHER",
-    "KR": null
+    "KR": "OTHER"
   },
   "1001": {
     "JP": "ALL",
     "CN": null,
     "TW": null,
     "NA": "ALL",
-    "KR": null
+    "KR": "ALL"
   },
   "1002": {
     "JP": "EXTRA",
     "CN": null,
     "TW": null,
     "NA": "EXTRA",
-    "KR": null
+    "KR": "EXTRA"
   },
   "1003": {
     "JP": "MIX",
     "CN": null,
     "TW": null,
     "NA": "MIX",
-    "KR": null
+    "KR": "MIX"
   }
 }
